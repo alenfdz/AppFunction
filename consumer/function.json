@@ -13,7 +13,7 @@
       "databaseName": "thingsdatabase",
       "collectionName": "nodeitems",
       "createIfNotExists": true,
-      "connection": "AccountEndpoint=https://mycosmosimusjmy2gpq64.documents.azure.com:443/;Accountkey=e11y98vKUOfKuHQMlckePqF8EHqPyOK4T8XtBmwf4S8KMSKUHLYg8CUCnC2dU0z5UnKQ67QEIKUzXhe418wiBA==;",
+      "connection": "",
       "direction": "out"
     }
   ]
